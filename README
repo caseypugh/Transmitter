@@ -1,0 +1,11 @@
+ _____                              _ _   _
+|_   _| __ __ _ _ __  ___ _ __ ___ (_) |_| |_ ___ _ __
+  | || '__/ _` | '_ \/ __| '_ ` _ \| | __| __/ _ \ '__|
+  | || | | (_| | | | \__ \ | | | | | | |_| ||  __/ |
+  |_||_|  \__,_|_| |_|___/_| |_| |_|_|\__|\__\___|_|
+
+Make your web pages interact with desktop apps. A demonstration of Flash's LocalConnection to allow a Flash object to communicate with an AIR app.
+
+This demo shows how to make your web page have Growl-like alerts on your computer.
+
+More docs coming soon...
